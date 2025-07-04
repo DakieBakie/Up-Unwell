@@ -37,6 +37,7 @@
   "resources":[
     {"id":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"greg_spr","path":"sprites/greg_spr/greg_spr.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
