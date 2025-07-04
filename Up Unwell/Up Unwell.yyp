@@ -35,6 +35,7 @@
   },
   "name":"Up Unwell",
   "resources":[
+    {"id":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "resourceType":"GMProject",
