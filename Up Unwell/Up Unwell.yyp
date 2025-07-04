@@ -36,6 +36,7 @@
   "name":"Up Unwell",
   "resources":[
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"greg_spr","path":"sprites/greg_spr/greg_spr.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
