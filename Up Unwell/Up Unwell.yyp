@@ -40,6 +40,7 @@
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
     {"id":{"name":"greg_spr","path":"sprites/greg_spr/greg_spr.yy",},},
     {"id":{"name":"Tilesetbasic_spr","path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},},
+    {"id":{"name":"Wall_spr","path":"sprites/Wall_spr/Wall_spr.yy",},},
     {"id":{"name":"Basic_ground_Tile","path":"tilesets/Basic_ground_Tile/Basic_ground_Tile.yy",},},
   ],
   "resourceType":"GMProject",
