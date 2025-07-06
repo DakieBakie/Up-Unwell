@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":1,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -36,8 +36,11 @@
   "name":"Up Unwell",
   "resources":[
     {"id":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},},
+    {"id":{"name":"Level_end_obj","path":"objects/Level_end_obj/Level_end_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Testing_Room_Andrew","path":"rooms/Testing_Room_Andrew/Testing_Room_Andrew.yy",},},
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
+    {"id":{"name":"endlevel_spr","path":"sprites/endlevel_spr/endlevel_spr.yy",},},
     {"id":{"name":"greg_spr","path":"sprites/greg_spr/greg_spr.yy",},},
     {"id":{"name":"Tilesetbasic_spr","path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},},
     {"id":{"name":"Wall_spr","path":"sprites/Wall_spr/Wall_spr.yy",},},
@@ -48,6 +51,7 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
+    {"roomId":{"name":"Testing_Room_Andrew","path":"rooms/Testing_Room_Andrew/Testing_Room_Andrew.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

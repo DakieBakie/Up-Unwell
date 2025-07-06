@@ -17,7 +17,10 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Level_end_obj","order":1,"path":"objects/Level_end_obj/Level_end_obj.yy",},
+    {"name":"Testing_Room_Andrew","order":2,"path":"rooms/Testing_Room_Andrew/Testing_Room_Andrew.yy",},
     {"name":"Testing_Room_Daken","order":1,"path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},
+    {"name":"endlevel_spr","order":2,"path":"sprites/endlevel_spr/endlevel_spr.yy",},
     {"name":"Tilesetbasic_spr","order":1,"path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},
     {"name":"Wall_spr","order":1,"path":"sprites/Wall_spr/Wall_spr.yy",},
   ],
