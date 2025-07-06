@@ -1,11 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Greg_OBJ",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"Wall_OBJ",
+  "eventList":[],
   "managed":true,
-  "name":"Greg_OBJ",
+  "name":"Wall_OBJ",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -25,15 +23,13 @@
   "physicsShape":1,
   "physicsShapePoints":[],
   "physicsStartAwake":true,
-  "properties":[
-    {"$GMObjectProperty":"v1","%Name":"speed","filters":[],"listItems":[],"multiselect":false,"name":"speed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"10","varType":0,},
-  ],
+  "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"greg_spr",
-    "path":"sprites/greg_spr/greg_spr.yy",
+    "name":"Wall_spr",
+    "path":"sprites/Wall_spr/Wall_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,

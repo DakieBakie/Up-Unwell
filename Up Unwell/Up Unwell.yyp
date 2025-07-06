@@ -36,6 +36,7 @@
   "name":"Up Unwell",
   "resources":[
     {"id":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},},
+    {"id":{"name":"Wall_OBJ","path":"objects/Wall_OBJ/Wall_OBJ.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
     {"id":{"name":"greg_spr","path":"sprites/greg_spr/greg_spr.yy",},},
