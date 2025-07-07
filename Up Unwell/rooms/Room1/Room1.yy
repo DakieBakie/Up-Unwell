@@ -129,6 +129,7 @@
     {"name":"inst_73084B83","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_66D6FD0D","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_6E14A63F","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_44E378A9","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -256,6 +257,7 @@
         {"$GMRInstance":"v2","%Name":"inst_73084B83","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_73084B83","objectId":{"name":"Wall_OBJ","path":"objects/Wall_OBJ/Wall_OBJ.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1328.0,"y":368.0,},
         {"$GMRInstance":"v2","%Name":"inst_66D6FD0D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_66D6FD0D","objectId":{"name":"Wall_OBJ","path":"objects/Wall_OBJ/Wall_OBJ.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1344.0,"y":368.0,},
         {"$GMRInstance":"v2","%Name":"inst_6E14A63F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6E14A63F","objectId":{"name":"Wall_OBJ","path":"objects/Wall_OBJ/Wall_OBJ.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1360.0,"y":368.0,},
+        {"$GMRInstance":"v2","%Name":"inst_44E378A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_44E378A9","objectId":{"name":"Music_Player_obj","path":"objects/Music_Player_obj/Music_Player_obj.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":144.0,"y":80.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRTileLayer":"","%Name":"GroundTIles","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"GroundTIles","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":48,"SerialiseWidth":86,"TileCompressedData":[
           -1762,-2147483648,-9,0,-77,-2147483648,-9,0,-77,-2147483648,-9,0,-35,-2147483648,-39,2,3,3,-2147483648,
