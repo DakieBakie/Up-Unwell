@@ -17,6 +17,7 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"Music_Player_obj","order":1,"path":"objects/Music_Player_obj/Music_Player_obj.yy",},
     {"name":"Testing_Room_Daken","order":1,"path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},
     {"name":"Tilesetbasic_spr","order":1,"path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},
     {"name":"Wall_spr","order":1,"path":"sprites/Wall_spr/Wall_spr.yy",},
