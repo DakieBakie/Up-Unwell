@@ -1,24 +1,39 @@
 right_key = keyboard_check(vk_right);
 left_key = keyboard_check(vk_left);
 Jump_keyPressed = keyboard_check_pressed(vk_space);
-
+left_click_pressed = mouse_check_button_pressed(mb_left);
 
 moveDir = right_key - left_key;
+
+if(left_click_pressed == true)
+{
+	
+	var _bulletInst = instance_create_layer(Greg_OBJ.x, Greg_OBJ.y,Greg_OBJ.layer,Bullet_obj);
+	
+	with(_bulletInst)
+	{
+		bullet_dir = other.gundir;	
+		
+	}
+	
+	
+}
 
 
 if (right_key == true)
 {
 	face = RIGHT;
+	
 }
 if (left_key == true)
 {
 	face = LEFT;
+	
 }
-
+if (face == LEFT){gundir = -1;}
+if (face == RIGHT){gundir = 1;}
+//updates sprite direction
 sprite_index = sprite[face];
-
-
-
 xspd = moveDir * move_spd;
 
 //moves x and collision
@@ -35,6 +50,8 @@ if place_meeting(x + xspd, y, Wall_OBJ)
 }
 
 x += xspd;
+
+
 
 
 
@@ -63,11 +80,12 @@ if yspd > terminalvel {yspd = terminalvel;};
 
 y += yspd;
 
-
 if xspd = 0 and yspd = 0
 {
 	image_index = 0
 }
+
+
 	
 
 

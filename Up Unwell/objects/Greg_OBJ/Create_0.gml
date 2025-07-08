@@ -11,3 +11,8 @@ sprite[RIGHT] = greg_spr_right;
 sprite[LEFT] = greg_spr_left;
 
 face = RIGHT;
+
+
+//Gun Stuff
+firerate = 4;
+gundir = 0;
