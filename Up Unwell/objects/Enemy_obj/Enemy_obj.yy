@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"ENEMY_spr",
-    "path":"sprites/ENEMY_spr/ENEMY_spr.yy",
+    "name":"tankEnemy_spr",
+    "path":"sprites/tankEnemy_spr/tankEnemy_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
