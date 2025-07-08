@@ -2,5 +2,6 @@
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
     {"name":"greg_spr_left","order":1,"path":"sprites/greg_spr_left/greg_spr_left.yy",},
+    {"name":"greg_spr_right","order":2,"path":"sprites/greg_spr_right/greg_spr_right.yy",},
   ],
 }

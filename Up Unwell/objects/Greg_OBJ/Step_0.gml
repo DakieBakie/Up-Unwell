@@ -64,4 +64,11 @@ if yspd > terminalvel {yspd = terminalvel;};
 y += yspd;
 
 
+if xspd = 0 and yspd = 0
+{
+	image_index = 0
+}
+	
+
+
 
