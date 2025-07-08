@@ -42,6 +42,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"Song1","path":"sounds/Song1/Song1.yy",},},
     {"id":{"name":"endlevel_spr","path":"sprites/endlevel_spr/endlevel_spr.yy",},},
     {"id":{"name":"greg_spr_left","path":"sprites/greg_spr_left/greg_spr_left.yy",},},
     {"id":{"name":"greg_spr_right","path":"sprites/greg_spr_right/greg_spr_right.yy",},},

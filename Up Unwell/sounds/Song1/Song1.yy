@@ -18,8 +18,8 @@
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
-  "sampleRate":48000,
+  "sampleRate":44100,
   "soundFile":"Song1.mp3",
-  "type":1,
+  "type":0,
   "volume":1.0,
 }
