@@ -1,7 +1,14 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"greg_spr_left","order":1,"path":"sprites/greg_spr_left/greg_spr_left.yy",},
-    {"name":"greg_spr_right","order":2,"path":"sprites/greg_spr_right/greg_spr_right.yy",},
+    {"name":"Bullet_obj","order":2,"path":"objects/Bullet_obj/Bullet_obj.yy",},
+    {"name":"Enemy_obj","order":1,"path":"objects/Enemy_obj/Enemy_obj.yy",},
+    {"name":"bullet_spr","order":7,"path":"sprites/bullet_spr/bullet_spr.yy",},
+    {"name":"endlevel_spr","order":3,"path":"sprites/endlevel_spr/endlevel_spr.yy",},
+    {"name":"ENEMY_spr","order":6,"path":"sprites/ENEMY_spr/ENEMY_spr.yy",},
+    {"name":"greg_spr_left","order":4,"path":"sprites/greg_spr_left/greg_spr_left.yy",},
+    {"name":"greg_spr_right","order":5,"path":"sprites/greg_spr_right/greg_spr_right.yy",},
+    {"name":"Music_player_spr","order":2,"path":"sprites/Music_player_spr/Music_player_spr.yy",},
+    {"name":"Tilesetbasic_spr","order":1,"path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},
   ],
 }
