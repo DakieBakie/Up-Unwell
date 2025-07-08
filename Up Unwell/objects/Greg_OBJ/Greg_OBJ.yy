@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"greg_spr",
-    "path":"sprites/greg_spr/greg_spr.yy",
+    "name":"greg_spr_right",
+    "path":"sprites/greg_spr_right/greg_spr_right.yy",
   },
   "spriteMaskId":null,
   "visible":true,
