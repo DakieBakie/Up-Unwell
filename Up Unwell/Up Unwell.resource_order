@@ -19,9 +19,3 @@
   "ResourceOrderSettings":[
     {"name":"Music_Player_obj","order":1,"path":"objects/Music_Player_obj/Music_Player_obj.yy",},
     {"name":"Testing_Room_Daken","order":1,"path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},
-    {"name":"greg_spr","order":1,"path":"sprites/greg_spr/greg_spr.yy",},
-    {"name":"Music_player_spr","order":4,"path":"sprites/Music_player_spr/Music_player_spr.yy",},
-    {"name":"Tilesetbasic_spr","order":3,"path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},
-    {"name":"Wall_spr","order":2,"path":"sprites/Wall_spr/Wall_spr.yy",},
-  ],
-}
