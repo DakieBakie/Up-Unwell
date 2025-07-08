@@ -41,8 +41,11 @@
     {"id":{"name":"Wall_OBJ","path":"objects/Wall_OBJ/Wall_OBJ.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
-
-
+    {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
+    {"id":{"name":"endlevel_spr","path":"sprites/endlevel_spr/endlevel_spr.yy",},},
+    {"id":{"name":"greg_spr_left","path":"sprites/greg_spr_left/greg_spr_left.yy",},},
+    {"id":{"name":"greg_spr_right","path":"sprites/greg_spr_right/greg_spr_right.yy",},},
+    {"id":{"name":"Music_player_spr","path":"sprites/Music_player_spr/Music_player_spr.yy",},},
     {"id":{"name":"Tilesetbasic_spr","path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},},
     {"id":{"name":"Wall_spr","path":"sprites/Wall_spr/Wall_spr.yy",},},
     {"id":{"name":"Basic_ground_Tile","path":"tilesets/Basic_ground_Tile/Basic_ground_Tile.yy",},},
