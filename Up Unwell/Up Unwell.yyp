@@ -35,6 +35,8 @@
   },
   "name":"Up Unwell",
   "resources":[
+    {"id":{"name":"Bullet_obj","path":"objects/Bullet_obj/Bullet_obj.yy",},},
+    {"id":{"name":"Enemy_obj","path":"objects/Enemy_obj/Enemy_obj.yy",},},
     {"id":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},},
     {"id":{"name":"Level_end_obj","path":"objects/Level_end_obj/Level_end_obj.yy",},},
     {"id":{"name":"Music_Player_obj","path":"objects/Music_Player_obj/Music_Player_obj.yy",},},
@@ -43,7 +45,9 @@
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Song1","path":"sounds/Song1/Song1.yy",},},
+    {"id":{"name":"bullet_spr","path":"sprites/bullet_spr/bullet_spr.yy",},},
     {"id":{"name":"endlevel_spr","path":"sprites/endlevel_spr/endlevel_spr.yy",},},
+    {"id":{"name":"ENEMY_spr","path":"sprites/ENEMY_spr/ENEMY_spr.yy",},},
     {"id":{"name":"greg_spr_left","path":"sprites/greg_spr_left/greg_spr_left.yy",},},
     {"id":{"name":"greg_spr_right","path":"sprites/greg_spr_right/greg_spr_right.yy",},},
     {"id":{"name":"Music_player_spr","path":"sprites/Music_player_spr/Music_player_spr.yy",},},
