@@ -5,9 +5,23 @@ Jump_keyPressed = keyboard_check_pressed(vk_space);
 
 moveDir = right_key - left_key;
 
+
+if (right_key == true)
+{
+	face = RIGHT;
+}
+if (left_key == true)
+{
+	face = LEFT;
+}
+
+sprite_index = sprite[face];
+
+
+
 xspd = moveDir * move_spd;
 
-
+//moves x and collision
 var _subPixel = .5;
 if place_meeting(x + xspd, y, Wall_OBJ)
 {
@@ -27,6 +41,7 @@ x += xspd;
 //GRAVITY
 yspd += grav;
 
+//moves y and collision
 if Jump_keyPressed && place_meeting(x, y + 1 , Wall_OBJ)
 {
 	yspd = jump_spd;
@@ -47,6 +62,13 @@ if place_meeting(x , y + yspd, Wall_OBJ)
 if yspd > terminalvel {yspd = terminalvel;};
 
 y += yspd;
+
+
+if xspd = 0 and yspd = 0
+{
+	image_index = 0
+}
+	
 
 
 

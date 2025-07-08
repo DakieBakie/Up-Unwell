@@ -1,12 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"Greg_OBJ",
+  "%Name":"Music_Player_obj",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Greg_OBJ",
+  "name":"Music_Player_obj",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -31,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"greg_spr_left",
-    "path":"sprites/greg_spr_left/greg_spr_left.yy",
+    "name":"Music_player_spr",
+    "path":"sprites/Music_player_spr/Music_player_spr.yy",
   },
   "spriteMaskId":null,
   "visible":true,
