@@ -42,6 +42,7 @@
     {"id":{"name":"Music_Player_obj","path":"objects/Music_Player_obj/Music_Player_obj.yy",},},
     {"id":{"name":"Wall_OBJ","path":"objects/Wall_OBJ/Wall_OBJ.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"id":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
     {"id":{"name":"Script1","path":"scripts/Script1/Script1.yy",},},
     {"id":{"name":"Song1","path":"sounds/Song1/Song1.yy",},},
@@ -61,6 +62,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
     {"roomId":{"name":"Testing_Room_Daken","path":"rooms/Testing_Room_Daken/Testing_Room_Daken.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
