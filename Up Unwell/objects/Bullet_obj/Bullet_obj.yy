@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bullet_spr",
-    "path":"sprites/bullet_spr/bullet_spr.yy",
+    "name":"bullet_spr_left",
+    "path":"sprites/bullet_spr_left/bullet_spr_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,
