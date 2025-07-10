@@ -56,15 +56,15 @@ x += xspd;
 
 
 //GRAVITY
-yspd += grav;
+yspd += grav * (timer * .01);
 
 //moves y and collision
 if Jump_keyPressed && place_meeting(x, y + 1 , Wall_OBJ)
 {
 	yspd = jump_spd;
+	is_falling = true;
 }
 
-var _subPixel = .5;
 if place_meeting(x , y + yspd, Wall_OBJ)
 {
 	var _pixelCheck = _subPixel * sign(yspd);
@@ -72,11 +72,17 @@ if place_meeting(x , y + yspd, Wall_OBJ)
 	{
 		y += _pixelCheck;	
 	}
-	
+	is_falling = false;
 	yspd = 0;	
 }
 
 if yspd > terminalvel {yspd = terminalvel;};
+if (is_falling == true) 
+{
+	timer++;
+}
+else {timer = 1;}
+
 
 y += yspd;
 
