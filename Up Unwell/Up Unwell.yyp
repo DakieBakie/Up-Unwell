@@ -48,6 +48,7 @@
     {"id":{"name":"Song1","path":"sounds/Song1/Song1.yy",},},
     {"id":{"name":"backGround_spr","path":"sprites/backGround_spr/backGround_spr.yy",},},
     {"id":{"name":"bullet_spr","path":"sprites/bullet_spr/bullet_spr.yy",},},
+    {"id":{"name":"CrocBot","path":"sprites/CrocBot/CrocBot.yy",},},
     {"id":{"name":"eggEnemy_spr","path":"sprites/eggEnemy_spr/eggEnemy_spr.yy",},},
     {"id":{"name":"endlevel_spr","path":"sprites/endlevel_spr/endlevel_spr.yy",},},
     {"id":{"name":"ENEMY_spr","path":"sprites/ENEMY_spr/ENEMY_spr.yy",},},
