@@ -64,6 +64,10 @@ if Jump_keyPressed && place_meeting(x, y + 1 , Wall_OBJ)
 	yspd = jump_spd;
 	is_falling = true;
 }
+if !place_meeting(x, y + 1 , Wall_OBJ)
+{
+	is_falling = true;
+}
 
 if place_meeting(x , y + yspd, Wall_OBJ)
 {
