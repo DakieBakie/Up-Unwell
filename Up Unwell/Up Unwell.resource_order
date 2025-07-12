@@ -1,8 +1,11 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"UI SPRITES","order":15,"path":"folders/Sprites/UI SPRITES.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"Bullet_obj","order":2,"path":"objects/Bullet_obj/Bullet_obj.yy",},
     {"name":"Enemy_obj","order":1,"path":"objects/Enemy_obj/Enemy_obj.yy",},
+    {"name":"SongBoss","order":1,"path":"sounds/SongBoss/SongBoss.yy",},
     {"name":"backGround_spr","order":10,"path":"sprites/backGround_spr/backGround_spr.yy",},
     {"name":"bullet_spr_left","order":7,"path":"sprites/bullet_spr_left/bullet_spr_left.yy",},
     {"name":"bullet_spr_Right","order":11,"path":"sprites/bullet_spr_Right/bullet_spr_Right.yy",},
@@ -17,5 +20,6 @@
     {"name":"Music_player_spr","order":2,"path":"sprites/Music_player_spr/Music_player_spr.yy",},
     {"name":"tankEnemy_spr","order":9,"path":"sprites/tankEnemy_spr/tankEnemy_spr.yy",},
     {"name":"Tilesetbasic_spr","order":1,"path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},
+    {"name":"UI_box_spr","order":1,"path":"sprites/UI_box_spr/UI_box_spr.yy",},
   ],
 }
