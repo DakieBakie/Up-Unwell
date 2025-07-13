@@ -5,6 +5,9 @@
   "ResourceOrderSettings":[
     {"name":"Bullet_obj","order":2,"path":"objects/Bullet_obj/Bullet_obj.yy",},
     {"name":"Enemy_obj","order":1,"path":"objects/Enemy_obj/Enemy_obj.yy",},
+    {"name":"obj_Button","order":3,"path":"objects/obj_Button/obj_Button.yy",},
+    {"name":"obj_Pause_Manager","order":4,"path":"objects/obj_Pause_Manager/obj_Pause_Manager.yy",},
+    {"name":"RoomUI","order":1,"path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"SongBoss","order":1,"path":"sounds/SongBoss/SongBoss.yy",},
     {"name":"backGround_spr","order":10,"path":"sprites/backGround_spr/backGround_spr.yy",},
     {"name":"bullet_spr_left","order":7,"path":"sprites/bullet_spr_left/bullet_spr_left.yy",},
