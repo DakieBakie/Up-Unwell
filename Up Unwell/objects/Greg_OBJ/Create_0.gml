@@ -1,6 +1,6 @@
 xspd = 0;
 yspd = 0;
-move_spd = 1;
+move_spd = 1.5;
 moveDir = 0;
 
 grav = .5;

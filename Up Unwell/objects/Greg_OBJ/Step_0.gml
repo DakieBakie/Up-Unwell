@@ -1,5 +1,5 @@
-right_key = keyboard_check(vk_right);
-left_key = keyboard_check(vk_left);
+right_key = keyboard_check(ord("D"));
+left_key = keyboard_check(ord("A"));
 Jump_keyPressed = keyboard_check_pressed(vk_space);
 left_click_pressed = mouse_check_button_pressed(mb_left);
 
@@ -48,7 +48,6 @@ if place_meeting(x + xspd, y, Wall_OBJ)
 	
 	xspd = 0;	
 }
-
 x += xspd;
 
 
