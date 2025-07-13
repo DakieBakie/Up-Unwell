@@ -4,6 +4,12 @@
   "children":[
     {"$GMRUILayer":"v1","%Name":"PauseLayer","alignItems":2,"children":[
         {"$GMRFlexPanel":"","%Name":"PausePanel","alignItems":2,"children":[
+            {"$GMRFlexPanel":"","%Name":"paused","alignItems":2,"children":[
+                {"$GMRFlexPanel":"","%Name":"text","alignItems":2,"children":[
+                    {"$GMRTextItem":"v2","%Name":"text_79906F1F","alignment":1,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps",},"fontId":{"name":"fnt_ui","path":"fonts/fnt_ui/fnt_ui.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_79906F1F","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":" Paused","wrap":false,"x":20.0,"xorigin":0.0,"y":8.0,"yorigin":0.0,},
+                  ],"flexDirection":0,"height":{"unit":1,"value":60.0,},"justifyContent":1,"name":"text","nodeColour":4286925042,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":1,"value":150.0,},},
+                {"$GMRSpriteGraphic":"v1","%Name":"graphic_56BDB280","animationSpeed":1.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_56BDB280","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"UI_button_spr","path":"sprites/UI_button_spr/UI_button_spr.yy",},"x":0.0,"y":0.0,},
+              ],"flexDirection":0,"height":{"unit":3,"value":64.0,},"justifyContent":1,"name":"paused","nodeColour":4282970708,"resourceType":"GMRFlexPanel","resourceVersion":"2.0","width":{"unit":3,"value":64.0,},},
             {"$GMRFlexPanel":"","%Name":"Resume","alignItems":2,"children":[
                 {"$GMRFlexPanel":"","%Name":"Text","alignItems":2,"children":[
                     {"$GMRTextItem":"v2","%Name":"text_1777A83C","alignment":0,"charSpacing":0.0,"colour":4294967295,"flexProperties":{"$InstanceFlexProps":"v1","anchor":0,"resourceType":"InstanceFlexProps","stretchHeight":true,"stretchWidth":true,},"fontId":{"name":"fnt_ui","path":"fonts/fnt_ui/fnt_ui.yy",},"frameH":0.0,"frameW":0.0,"frozen":false,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"lineSpacing":0.0,"name":"text_1777A83C","paragraphSpacing":0.0,"resourceType":"GMRTextItem","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"text":"Resume","wrap":false,"x":0.0,"xorigin":0.0,"y":0.0,"yorigin":0.0,},
@@ -31,5 +37,5 @@
   "resourceType":"GMRoomUI",
   "resourceVersion":"2.0",
   "viewspaceChildren":[],
-  "visible":true,
+  "visible":false,
 }

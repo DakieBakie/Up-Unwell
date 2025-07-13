@@ -2,6 +2,7 @@ right_key = keyboard_check(ord("D"));
 left_key = keyboard_check(ord("A"));
 Jump_keyPressed = keyboard_check_pressed(vk_space);
 left_click_pressed = mouse_check_button_pressed(mb_left);
+left_shift_pressed = keyboard_check_pressed(vk_shift);
 
 moveDir = right_key - left_key;
 
@@ -46,14 +47,22 @@ if place_meeting(x + xspd, y, Wall_OBJ)
 		x += _pixelCheck;	
 	}
 	
-	xspd = 0;	
+	xspd = 0;
+	current_dashspd = 0;
+}
+else
+{
+	current_dashspd = dashspd;
 }
 x += xspd;
 
-
-
-
-
+//dashing logic
+if (left_shift_pressed && cooldown_dash = 0)
+{
+	
+	x += current_dashspd * moveDir;
+}
+show_debug_message(current_dashspd);
 //GRAVITY
 yspd += grav * (timer * .01);
 
