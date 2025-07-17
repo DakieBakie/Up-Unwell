@@ -12,11 +12,16 @@ terminalvel = 5;
 timer = 0;
 is_falling = false;
 
+//timer variables
+t_sec = 3
+t_mil = 0
+
+alarm[0] = 6
 
 //dashing variables
 current_dashspd = 0;
 dashspd = 10;
-cooldown_dash = 0;
+can_dash = true;
 
 
 //sprite variables
