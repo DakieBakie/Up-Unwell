@@ -20,7 +20,7 @@ alarm[0] = 6
 
 //dashing variables
 current_dashspd = 0;
-dashspd = 10;
+dashspd = 20;
 can_dash = true;
 
 

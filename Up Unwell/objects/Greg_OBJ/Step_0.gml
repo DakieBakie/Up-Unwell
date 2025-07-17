@@ -8,29 +8,21 @@ moveDir = right_key - left_key;
 
 if(left_click_pressed == true)
 {
-	
+	// creates bullet object on left click
 	var _bulletInst = instance_create_layer(Greg_OBJ.x, Greg_OBJ.y,Greg_OBJ.layer,Bullet_obj);
 	
 	with(_bulletInst)
 	{
+		
 		bullet_dir = other.gundir;	
 		
 	}
 	
-	
 }
 
-
-if (right_key == true)
-{
-	face = RIGHT;
-	
-}
-if (left_key == true)
-{
-	face = LEFT;
-	
-}
+// sets sprite and bullet direction based on movement direction
+if (right_key == true){face = RIGHT;}
+if (left_key == true){face = LEFT;}
 if (face == LEFT){gundir = -1;}
 if (face == RIGHT){gundir = 1;}
 //updates sprite direction
@@ -56,7 +48,6 @@ else
 }
 x += xspd;
 
-show_debug_message(can_dash)
 //dashing logic
 if (left_shift_pressed && can_dash == true && moveDir != 0)
 {
