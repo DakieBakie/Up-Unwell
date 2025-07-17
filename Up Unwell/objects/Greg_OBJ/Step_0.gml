@@ -56,13 +56,16 @@ else
 }
 x += xspd;
 
+show_debug_message(can_dash)
 //dashing logic
-if (left_shift_pressed && cooldown_dash = 0)
+if (left_shift_pressed && can_dash == true && moveDir != 0)
 {
-	
+	t_sec = 3;
+	can_dash = false;
+	alarm[0] = 6
 	x += current_dashspd * moveDir;
 }
-show_debug_message(current_dashspd);
+
 //GRAVITY
 yspd += grav * (timer * .01);
 
