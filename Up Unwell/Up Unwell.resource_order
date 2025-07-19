@@ -8,6 +8,7 @@
     {"name":"eggEnemy_obj","order":5,"path":"objects/eggEnemy_obj/eggEnemy_obj.yy",},
     {"name":"Enemy_obj","order":1,"path":"objects/Enemy_obj/Enemy_obj.yy",},
     {"name":"enemyBullet_obj","order":6,"path":"objects/enemyBullet_obj/enemyBullet_obj.yy",},
+    {"name":"Game_Timer_Manager_obj","order":8,"path":"objects/Game_Timer_Manager_obj/Game_Timer_Manager_obj.yy",},
     {"name":"obj_Button","order":3,"path":"objects/obj_Button/obj_Button.yy",},
     {"name":"obj_Pause_Manager","order":4,"path":"objects/obj_Pause_Manager/obj_Pause_Manager.yy",},
     {"name":"Enemy_Test_Room","order":1,"path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},

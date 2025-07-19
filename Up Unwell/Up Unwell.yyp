@@ -42,6 +42,7 @@
     {"id":{"name":"eggEnemy_obj","path":"objects/eggEnemy_obj/eggEnemy_obj.yy",},},
     {"id":{"name":"Enemy_obj","path":"objects/Enemy_obj/Enemy_obj.yy",},},
     {"id":{"name":"enemyBullet_obj","path":"objects/enemyBullet_obj/enemyBullet_obj.yy",},},
+    {"id":{"name":"Game_Timer_Manager_obj","path":"objects/Game_Timer_Manager_obj/Game_Timer_Manager_obj.yy",},},
     {"id":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},},
     {"id":{"name":"Level_end_obj","path":"objects/Level_end_obj/Level_end_obj.yy",},},
     {"id":{"name":"Music_Player_obj","path":"objects/Music_Player_obj/Music_Player_obj.yy",},},
