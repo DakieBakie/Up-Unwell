@@ -247,6 +247,7 @@
     {"name":"inst_2781F540","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_3BE3F9AB","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_3620AA72","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
+    {"name":"inst_66BBF34F","path":"roomui/RoomUI/RoomUI.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -537,7 +538,7 @@
   },
   "sequenceId":null,
   "views":[
-    {"hborder":1000,"hport":720,"hspeed":-1,"hview":200,"inherit":false,"objectId":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},"vborder":1000,"visible":true,"vspeed":-1,"wport":1280,"wview":400,"xport":0,"xview":0,"yport":0,"yview":60,},
+    {"hborder":1000,"hport":720,"hspeed":-1,"hview":200,"inherit":false,"objectId":{"name":"Greg_OBJ","path":"objects/Greg_OBJ/Greg_OBJ.yy",},"vborder":1000,"visible":true,"vspeed":-1,"wport":1280,"wview":400,"xport":0,"xview":0,"yport":0,"yview":2500,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
     {"hborder":32,"hport":768,"hspeed":-1,"hview":768,"inherit":false,"objectId":null,"vborder":32,"visible":false,"vspeed":-1,"wport":1366,"wview":1366,"xport":0,"xview":0,"yport":0,"yview":0,},
