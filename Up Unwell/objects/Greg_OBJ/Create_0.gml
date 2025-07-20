@@ -34,3 +34,12 @@ face = RIGHT;
 //Gun Stuff
 firerate = 4;
 gundir = 0;
+
+//hp variables
+hp = 50;
+max_hp = hp;
+
+healthbar_width = 187;
+healthbar_height = 60;
+healthbar_x = (100) - (healthbar_width/2);
+healthbar_y = ystart - 150;

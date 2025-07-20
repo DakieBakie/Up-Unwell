@@ -69,6 +69,7 @@
     {"id":{"name":"enemyBullet_spr","path":"sprites/enemyBullet_spr/enemyBullet_spr.yy",},},
     {"id":{"name":"greg_spr_left","path":"sprites/greg_spr_left/greg_spr_left.yy",},},
     {"id":{"name":"greg_spr_right","path":"sprites/greg_spr_right/greg_spr_right.yy",},},
+    {"id":{"name":"Healthbar_border_spr","path":"sprites/Healthbar_border_spr/Healthbar_border_spr.yy",},},
     {"id":{"name":"Healthbar_spr","path":"sprites/Healthbar_spr/Healthbar_spr.yy",},},
     {"id":{"name":"Music_player_spr","path":"sprites/Music_player_spr/Music_player_spr.yy",},},
     {"id":{"name":"tankEnemy_spr","path":"sprites/tankEnemy_spr/tankEnemy_spr.yy",},},
