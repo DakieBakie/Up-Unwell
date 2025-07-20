@@ -3,6 +3,8 @@ left_key = keyboard_check(ord("A"));
 Jump_keyPressed = keyboard_check_pressed(vk_space);
 left_click_pressed = mouse_check_button_pressed(mb_left);
 left_shift_pressed = keyboard_check_pressed(vk_shift);
+right_click_pressed = mouse_check_button_pressed(mb_right);
+middle_click_pressed = mouse_check_button_pressed(mb_middle);
 
 moveDir = right_key - left_key;
 
@@ -96,6 +98,16 @@ y += yspd;
 if xspd = 0 and yspd = 0
 {
 	image_index = 0
+}
+
+//damage and hp logic
+if (right_click_pressed == true)
+{
+	hp = hp - damage;
+}
+if(middle_click_pressed == true)
+{
+	hp = max_hp;
 }
 
 
