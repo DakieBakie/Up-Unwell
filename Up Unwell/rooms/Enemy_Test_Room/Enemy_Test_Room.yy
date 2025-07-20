@@ -6,8 +6,6 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_1DED176","path":"roomui/RoomUI/RoomUI.yy",},
-    {"name":"inst_67FA904D","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_60B9119B","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_1DA5F2E8","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_7C47356F","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
@@ -247,9 +245,10 @@
     {"name":"inst_2781F540","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_3BE3F9AB","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_3620AA72","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
-
+    {"name":"inst_4DDCE42","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
+    {"name":"inst_1DED176","path":"roomui/RoomUI/RoomUI.yy",},
+    {"name":"inst_67FA904D","path":"roomui/RoomUI/RoomUI.yy",},
     {"name":"inst_66BBF34F","path":"roomui/RoomUI/RoomUI.yy",},
-
   ],
   "isDnd":false,
   "layers":[
