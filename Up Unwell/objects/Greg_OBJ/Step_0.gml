@@ -55,6 +55,7 @@ if (left_shift_pressed && can_dash == true && moveDir != 0)
 	can_dash = false;
 	alarm[0] = 6
 	x += current_dashspd * moveDir;
+	
 }
 
 //GRAVITY
