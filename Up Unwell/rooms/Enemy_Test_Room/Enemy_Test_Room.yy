@@ -247,9 +247,8 @@
     {"name":"inst_2781F540","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_3BE3F9AB","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"inst_3620AA72","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
-
     {"name":"inst_66BBF34F","path":"roomui/RoomUI/RoomUI.yy",},
-
+    {"name":"inst_4DDCE42","path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
   ],
   "isDnd":false,
   "layers":[
