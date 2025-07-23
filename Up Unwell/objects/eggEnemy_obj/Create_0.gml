@@ -1,1 +1,9 @@
-instance_create_layer(x,y,"Instances",aimArrow_obj)
+
+
+max_movespd = 1
+movespd = 1;
+
+current_dist = 0;
+
+firerate = 0;
+firerate_cooldown = 60;
