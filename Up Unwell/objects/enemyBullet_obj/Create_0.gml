@@ -3,3 +3,5 @@ image_xscale = .5;
 image_yscale = .5;
 
 speed = 2;
+
+damage = 10;
