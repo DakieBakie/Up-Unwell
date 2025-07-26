@@ -22,7 +22,7 @@
  
  current_dist = point_distance(moveto ,Greg_OBJ.y + -100, eggEnemy_obj.x, eggEnemy_obj.y)
  
- show_debug_message(current_dist);
+ show_debug_message(moveto);
  if firerate > 0 {firerate--;}
  if (current_dist <= 100)
  {
