@@ -32,10 +32,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"greg_spr_left",
-    "path":"sprites/greg_spr_left/greg_spr_left.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

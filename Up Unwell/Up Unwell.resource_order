@@ -24,7 +24,7 @@
     {"name":"endlevel_spr","order":3,"path":"sprites/endlevel_spr/endlevel_spr.yy",},
     {"name":"ENEMY_spr","order":6,"path":"sprites/ENEMY_spr/ENEMY_spr.yy",},
     {"name":"enemyBullet_spr","order":17,"path":"sprites/enemyBullet_spr/enemyBullet_spr.yy",},
-    {"name":"greg_spr_left","order":4,"path":"sprites/greg_spr_left/greg_spr_left.yy",},
+    {"name":"greg_spr_left","order":20,"path":"sprites/greg_spr_left/greg_spr_left.yy",},
     {"name":"greg_spr_right","order":5,"path":"sprites/greg_spr_right/greg_spr_right.yy",},
     {"name":"Healthbar_border_spr","order":14,"path":"sprites/Healthbar_border_spr/Healthbar_border_spr.yy",},
     {"name":"Healthbar_spr","order":19,"path":"sprites/Healthbar_spr/Healthbar_spr.yy",},

@@ -99,6 +99,21 @@ if xspd = 0 and yspd = 0
 {
 	image_index = 0
 }
+else if yspd < 0 
+{
+	image_index = 4
+}
+else if yspd > 0
+{
+	image_index = 5
+}
+else
+{
+	image_index = 0
+	
+}
+
+
 
 //damage and hp logic
 if (right_click_pressed == true)
