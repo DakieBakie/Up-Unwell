@@ -107,11 +107,6 @@ else if yspd > 0
 {
 	image_index = 5
 }
-else
-{
-	image_index = 0
-	
-}
 
 
 
