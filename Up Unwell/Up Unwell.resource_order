@@ -1,17 +1,19 @@
 {
   "FolderOrderSettings":[
+    {"name":"tank_enemy","order":11,"path":"folders/Objects/tank_enemy.yy",},
     {"name":"UI SPRITES","order":15,"path":"folders/Sprites/UI SPRITES.yy",},
   ],
   "ResourceOrderSettings":[
     {"name":"aimArrow_obj","order":7,"path":"objects/aimArrow_obj/aimArrow_obj.yy",},
     {"name":"Bullet_obj","order":2,"path":"objects/Bullet_obj/Bullet_obj.yy",},
     {"name":"eggEnemy_obj","order":5,"path":"objects/eggEnemy_obj/eggEnemy_obj.yy",},
-    {"name":"Enemy_obj","order":1,"path":"objects/Enemy_obj/Enemy_obj.yy",},
     {"name":"enemyBullet_obj","order":6,"path":"objects/enemyBullet_obj/enemyBullet_obj.yy",},
     {"name":"Game_Timer_Manager_obj","order":8,"path":"objects/Game_Timer_Manager_obj/Game_Timer_Manager_obj.yy",},
     {"name":"obj_Button","order":3,"path":"objects/obj_Button/obj_Button.yy",},
     {"name":"obj_particleSystem","order":8,"path":"objects/obj_particleSystem/obj_particleSystem.yy",},
     {"name":"obj_Pause_Manager","order":4,"path":"objects/obj_Pause_Manager/obj_Pause_Manager.yy",},
+    {"name":"Tank_Cannon_obj","order":10,"path":"objects/Tank_Cannon_obj/Tank_Cannon_obj.yy",},
+    {"name":"Tank_enemy_obj","order":1,"path":"objects/Tank_enemy_obj/Tank_enemy_obj.yy",},
     {"name":"Trigger_Box","order":9,"path":"objects/Trigger_Box/Trigger_Box.yy",},
     {"name":"Enemy_Test_Room","order":1,"path":"rooms/Enemy_Test_Room/Enemy_Test_Room.yy",},
     {"name":"RoomUI","order":1,"path":"roomui/RoomUI/RoomUI.yy",},
@@ -31,6 +33,7 @@
     {"name":"Healthbar_spr","order":19,"path":"sprites/Healthbar_spr/Healthbar_spr.yy",},
     {"name":"Music_player_spr","order":2,"path":"sprites/Music_player_spr/Music_player_spr.yy",},
     {"name":"Sprite20","order":20,"path":"sprites/Sprite20/Sprite20.yy",},
+    {"name":"Sprite21","order":21,"path":"sprites/Sprite21/Sprite21.yy",},
     {"name":"tankEnemy_spr","order":9,"path":"sprites/tankEnemy_spr/tankEnemy_spr.yy",},
     {"name":"Tilesetbasic_spr","order":1,"path":"sprites/Tilesetbasic_spr/Tilesetbasic_spr.yy",},
     {"name":"UI_box_spr","order":1,"path":"sprites/UI_box_spr/UI_box_spr.yy",},
