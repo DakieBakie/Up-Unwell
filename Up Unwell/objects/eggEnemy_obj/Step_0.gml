@@ -39,7 +39,7 @@
 	times_shot++;
 	}
  }
- show_debug_message(current_dist)
+
  
  // moves eggboi out of range and destroys it
  if(times_shot >= 5)
